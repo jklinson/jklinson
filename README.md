@@ -33,7 +33,7 @@ Experienced Full-Stack Developer | AWS Enthusiast | Scrum Master
 - Developed and maintained Ionic applications for retail mobile banking.
 - Led proof-of-concept projects for successful integration of external services.
 - Acted as Scrum Master, fostering agile practices and efficient project management.
-- Technologies: Angular, Ionic, Cordova, .Net, OracleDB.
+- Technologies: Angular, Ionic, Cordova, Java, OracleDB.
 
 ### Engineering Lead at Mobme Wireless Solution Pvt Ltd, India
 - **Duration:** Feb 2016 - Sep 2018
