@@ -1,7 +1,7 @@
 # Linson Alfred
 Experienced Full-Stack Developer | AWS Enthusiast | Scrum Master
 
-👋 Hello! I'm Linson Alfred, a seasoned Full-Stack Developer with over 11 years of hands-on experience in designing, developing, and maintaining web and mobile applications. My technical expertise spans a wide range of technologies, including Node.js, React, Angular, AWS services, and more.
+👋 Hello! I'm Linson Alfred, a seasoned Full-Stack Developer with hands-on experience in designing, developing, and maintaining web and mobile applications. My technical expertise spans a wide range of technologies, including Node.js, React, Angular, AWS services, and more.
 
 ## 🚀 Quick Highlights
 
