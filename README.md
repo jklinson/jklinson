@@ -51,10 +51,6 @@ Experienced Full-Stack Developer | AWS Enthusiast | Scrum Master
 - **Duration:** Sep 2012 - Jan 2015
 - Worked on multiple technologies like Android, IOS, Angular and NodeJS.
 
-### Software Engineer at Visiontux 
-- **Duration:** Dec 2011 - Aug 2012
-- Build Android applications
-
   
 ...
 
