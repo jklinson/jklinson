@@ -21,7 +21,7 @@ Experienced Full-Stack Developer | AWS Enthusiast | Scrum Master
 
 ## 👨‍💻 Experience
 
-### Full Stack Developer (Associate Manager) at Pomelo Fashion Co Ltd, Thailand
+### Full Stack Developer (Team Lead) at Pomelo Fashion Co Ltd, Thailand
 - **Duration:** Mar 2021 - Oct 2023
 - Transformed systems to event-driven architecture, enhancing scalability.
 - Led integrations with third-party systems like Shopify, Contentful, Braze, Marketplacer.
